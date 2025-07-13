@@ -1,29 +1,39 @@
-# DelhiToken-ERC20
+DelhiToken
+A custom ERC-20 token for ETHGlobal New Delhi 2025.
+Overview
+I’m a beginner in Solidity, and DelhiToken is my first step into Web3, built using OpenZeppelin’s ERC-20 template. With a background in C++ and Java, I studied the code to learn token standards, customized the name and symbol, and deployed it on Sepolia to get hands-on experience for ETHGlobal.
+Deployment
 
- A custom ERC-20 token for ETHGlobal New Delhi 2025.
+Network: Sepolia Testnet
+Contract Address: https://sepolia.etherscan.io/address/0x7d6ae3ab93a9cb01a2379b6e7bb1b7a42b16ab64
 
- ## Overview
- DelhiToken is a standard ERC-20 token built using OpenZeppelin's audited template. As a beginner learning Solidity, I studied the code to understand token standards and made tweaks like renaming the contract and deploying it to Sepolia to explore Ethereum development.
+Features
 
- ## Deployment
- - **Network**: Sepolia Testnet
- - **Contract Address**: https://sepolia.etherscan.io/address/0x7d6ae3ab93a9cb01a2379b6e7bb1b7a42b16ab64
+Token Name: DelhiToken
+Symbol: DLT
+Initial Supply: 1,000,000 tokens
+Functions: Transfer, approve, check balances.
 
- ## Features
- - Token Name: DelhiToken
- - Symbol: DLT
- - Initial Supply: 1,000,000 tokens
- - Functions: Minting, transferring tokens
+Code Breakdown
+DelhiToken.sol inherits OpenZeppelin’s ERC20 contract for secure token logic. I set the name to "DelhiToken" and symbol to "DLT" in the constructor, minting 1,000,000 tokens (with 18 decimals) to my wallet. I learned how decimals() ensures precision and how Remix simplifies deployment. OpenZeppelin’s audited code gave me confidence in its security.
+Files
 
- ## Source
- Based on OpenZeppelin's ERC-20 template (https://github.com/OpenZeppelin/openzeppelin-contracts), licensed under MIT.
+DelhiToken.sol: Defines the ERC-20 token.
+LICENSE: MIT License, allowing open-source use.
+.gitignore: Node.js template with artifacts/ for clean commits.
+README.md: This file, detailing my project and journey.
 
- ## Learning Journey
- As a passionate beginner in Web3, I’m excited to dive into Solidity and Ethereum. I thoroughly read the OpenZeppelin code, customized the token name and symbol to reflect my learning for ETHGlobal, and deployed it to gain hands-on experience.
+Source
+Built using OpenZeppelin’s ERC-20 template (https://github.com/OpenZeppelin/openzeppelin-contracts), licensed under MIT. I customized the name and supply while learning from their code.
+My Journey
+I’m thrilled to explore Ethereum! Reading OpenZeppelin’s code taught me about tokens, and deploying to Sepolia was a big win. I chose “DelhiToken” to reflect my excitement for ETHGlobal New Delhi 2025.
+Usage
 
- ## Usage
- 1. Deploy using Remix IDE or Hardhat.
- 2. Interact via MetaMask or ethers.js for token transfers.
+Compile and deploy DelhiToken.sol in Remix (Solidity 0.8.20).
+Interact via MetaMask or ethers.js for transfers.
+Verify on Etherscan.
 
- ## License
- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.    
+License
+Licensed under the MIT License—see LICENSE.
+Contact                                                             
+Email me at rishabhgupta78470@gmail.com or find me on X @rishabh_guptaz. Excited to connect at ETHGlobal New Delhi 2025!
