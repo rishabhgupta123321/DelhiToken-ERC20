@@ -24,7 +24,7 @@ I’m a beginner in Solidity, and DelhiToken is my first step into Web3, built u
 - **`README.md`**: This file, detailing my project and journey.
 
 ## Source
-Built using OpenZeppelin’s ERC-20 template[](https://github.com/OpenZeppelin/openzeppelin-contracts), licensed under MIT. I customized the name and supply while learning from their code.
+Built using [OpenZeppelin’s ERC-20 template](https://github.com/OpenZeppelin/openzeppelin-contracts), licensed under MIT. I customized the name and supply while learning from their code.
 
 ## My Journey
 I’m thrilled to explore Ethereum! Reading OpenZeppelin’s code taught me about tokens, and deploying to Sepolia was a big win. I chose “DelhiToken” to reflect my excitement for ETHGlobal New Delhi 2025.
