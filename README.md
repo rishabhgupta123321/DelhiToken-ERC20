@@ -26,4 +26,4 @@
  2. Interact via MetaMask or ethers.js for token transfers.
 
  ## License
- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.    
