@@ -7,7 +7,7 @@
 
  ## Deployment
  - **Network**: Sepolia Testnet
- - **Contract Address**: [Paste Sepolia address here]
+ - **Contract Address**: https://sepolia.etherscan.io/address/0x7d6ae3ab93a9cb01a2379b6e7bb1b7a42b16ab64
 
  ## Features
  - Token Name: DelhiToken
