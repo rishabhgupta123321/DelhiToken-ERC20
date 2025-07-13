@@ -15,7 +15,7 @@ I’m a beginner in Solidity, and DelhiToken is my first step into Web3, built u
 - **Functions**: Transfer, approve, check balances.
 
 ## Code Breakdown
-`DelhiToken.sol` inherits OpenZeppelin’s `ERC20` contract for secure token logic. I set the name to "DelhiToken" and symbol to "DLT" in the constructor, minting 1,000,000 tokens to my wallet. I learned how `decimals()` ensures precision and how Remix simplifies deployment. OpenZeppelin’s audited code gave me confidence in its security.
+`DelhiToken.sol` inherits OpenZeppelin’s `ERC20` contract for secure token logic. I set the name to "DelhiToken" and symbol to "DLT" in the constructor, minting 1,000,000 tokens with 18 decimals to my wallet. I learned how `decimals()` ensures precision and how Remix simplifies deployment. OpenZeppelin’s audited code gave me confidence in its security.
 
 ## Files
 - **`DelhiToken.sol`**: Defines the ERC-20 token.
@@ -35,7 +35,7 @@ I’m thrilled to explore Ethereum! Reading OpenZeppelin’s code taught me abou
 - Verify on Etherscan.
 
 ## License
-Licensed under the MIT License—see [LICENSE](LICENSE). [L](LICENSE)
+Licensed under the MIT License—see [LICENSE](LICENSE).
 
 ## Contact
 Email me at rishabhgupta78470@gmail.com or find me on X @rishabh_guptaz. Excited to connect at ETHGlobal New Delhi 2025!
